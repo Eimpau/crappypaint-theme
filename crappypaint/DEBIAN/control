@@ -1,0 +1,8 @@
+Package: com.eimpau.crappypaint
+Name: Crappy Paint for iOS 12 iPad
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A theme with crappy icons made with paint!
+Author: Eimpau
+Maintainer: Eimpau
+Section: Themes
