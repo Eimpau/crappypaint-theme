@@ -6,3 +6,4 @@ Description: A theme with crappy icons made with paint!
 Author: Eimpau
 Maintainer: Eimpau
 Section: Themes
+Depends: com.spark.snowboard
